@@ -54,6 +54,7 @@ class ConfigurationTest extends TestCase
                     'navbar_condensed' => false,
                     'rtl_mode' => false,
                     'user_menu_condensed' => false,
+                    'layout' => 'horizontal',
                     'logo_url' => null,
                 ],
                 'knp_menu' => [
